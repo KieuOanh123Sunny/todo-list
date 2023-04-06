@@ -1,4 +1,3 @@
-
 const TODOS_STORAGE_KEY = 'TODO'
 export default {
     get() {

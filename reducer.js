@@ -1,4 +1,4 @@
-import storage from "../Todo list/unity/storage.js"
+import storage from "./unity/storage.js"
 import listItem from "./component/listItem.js"
 
 
